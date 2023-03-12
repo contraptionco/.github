@@ -1,4 +1,4 @@
-[The Contraption Company](https://contraption.co) is a product studio crafting tools that help people work online.
+## Product studio crafting tools that help people work online.
 
 Tools we build include:
 
