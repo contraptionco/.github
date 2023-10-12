@@ -1,4 +1,4 @@
-## Product studio crafting tools for onlien work.
+## Product studio crafting tools for online work
 
 Tools we build include:
 
